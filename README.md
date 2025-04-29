@@ -24,13 +24,6 @@ Built for quick, private access to webpages without leaving a trace in your loca
 
 ---
 
-## 📸 Screenshot
-
-<!-- Optional: Add an image here -->
-<!-- ![Screenshot](screenshot.png) -->
-
----
-
 ## 📖 How It Works
 
 1. **User** enters a URL in the input field and clicks **Go**.
