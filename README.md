@@ -56,7 +56,7 @@ Built for quick, private access to webpages without leaving a trace in your loca
 
 No installation needed!
 
-Just open the HTML file (`index.html`) in any modern web browser (Chrome, Firefox, Edge).
+Just open the HTML file (`secrete.html`) in any modern web browser (Chrome, Firefox, Edge).
 
 If you want to self-host:
 ```bash
